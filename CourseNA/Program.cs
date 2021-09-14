@@ -7,8 +7,6 @@ namespace CourseNA {
 
             Produto p = new Produto();
 
-            Console.WriteLine("Uma mudança teste!");
-
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             p.Nome = Console.ReadLine();
